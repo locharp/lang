@@ -2,7 +2,7 @@ http://www.debeselis.net/pronunciation.php
 
 **Alphabet (abėcėlė)**
 Letters	English approximations	Lithuanian examples			Meanings
-A, a	f_a_ther		1) n_a_m_a_s, k_a_ina			house, price
+A, a	f*a*ther		1) n_a_m_a_s, k_a_ina			house, price
    	Sar_ah_, c_u_t		2) v_a_rgas, kain_a_			misery, price
 Ą, ą	f_a_ther, c_a_r		_ą_žuolas, ž_ą_sis, nam_ą_, r_ą_stu	oak, goose, house (acc.), log (instr.)
 B, b	_b_ut, ra_bb_it		_b_et, _b_ėgti, pa_b_andyti		but, to run, to try
