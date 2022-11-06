@@ -1,6 +1,6 @@
 http://www.debeselis.net/pronunciation.php
 
-**Alphabet (abėcėlė)**
+__Alphabet (abėcėlė)__
 Letters	English approximations	Lithuanian examples			Meanings
 A, a	f*a*ther		1) n_a_m_a_s, k_a_ina			house, price
    	Sar_ah_, c_u_t		2) v_a_rgas, kain_a_			misery, price
